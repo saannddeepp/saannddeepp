@@ -1,4 +1,11 @@
-### Hi there 👋
+👋 Hi, I’m Sandeep Kr
+🌱 I’m currently working on a Startup India recognized start-up "AR Village®" based on Augmented Reality and Virtual Reality.
+👯 Our Company Techax Labs LLP also provides a wide range of IT Services and products that turn your great ideas into profitable business solutions.
+📫 You can reach me at info@techaxlabs.com and learn more at techaxlabs.com
+
+
+
+
 
 <!--
 **saannddeepp/saannddeepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

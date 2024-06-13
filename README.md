@@ -1,7 +1,7 @@
 👋 Hi, I’m Sandeep Kr
-🌱 I’m currently working on a Startup India recognized start-up "AR Village®" based on Augmented Reality and Virtual Reality.
+🌱 I’m currently working on Caley, an appointment and meeting scheduling software for business professionals and their clients..
 👯 Our Company Techax Labs LLP also provides a wide range of IT Services and products that turn your great ideas into profitable business solutions.
-📫 You can reach me at info@techaxlabs.com and learn more at techaxlabs.com
+📫 You can reach me at sandeep@techaxlabs.com and learn more at techaxlabs.com
 
 
 
